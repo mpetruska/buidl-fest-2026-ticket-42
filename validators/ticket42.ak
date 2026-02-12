@@ -1,7 +1,7 @@
 use aiken/crypto.{sha2_256}
 use cardano/transaction.{OutputReference, Transaction}
 
-validator placeholder {
+validator ticket42jail {
   spend(
     _datum: Option<Data>,
     redeemer: Data,
