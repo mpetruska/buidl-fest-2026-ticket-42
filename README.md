@@ -1,1 +1,3 @@
-# buidl-fest-2026-ticket-42
+# Buidl Fest 2026 ticket #42
+
+Ticket 42 is locked in the contract and wants to break free...
